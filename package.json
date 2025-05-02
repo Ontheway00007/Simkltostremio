@@ -1,0 +1,12 @@
+{
+  "name": "simkl-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Simkl lists using GitHub Actions",
+  "main": "scripts/scraper.js",
+  "scripts": {
+    "scrape": "node scripts/scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
